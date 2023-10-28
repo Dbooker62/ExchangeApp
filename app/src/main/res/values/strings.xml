@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exchange</string>
+    <string name="title">USD/PKR Conversion</string>
+    <string name="input">Currency to convert</string>
+    <string name="radio1">USD To PKR</string>
+    <string name="radio2">PKR To USD</string>
+    <string name="butt">Convert</string>
+    <string name="convertedAmount"></string>
+</resources>
